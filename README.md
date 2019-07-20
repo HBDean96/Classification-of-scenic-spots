@@ -14,5 +14,5 @@ pip install -r requirements.txt>
 
 ## The result of the software
 
-(/img.png)
+!(img.png)
 
