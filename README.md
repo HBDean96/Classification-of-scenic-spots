@@ -1,4 +1,4 @@
-"# Classification-of-scenic-spots" 
+# Classification-of-scenic-spots
 
 This repository create a small softwate about a classfication of scenic spots
 
