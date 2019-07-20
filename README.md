@@ -8,5 +8,7 @@ The network used in this repository is Densenet169 based on pytorch and all pict
 
 Install the requirements first:
 
-`pip install -r requirements.txt>`
+```
+pip install -r requirements.txt>
+```
 
